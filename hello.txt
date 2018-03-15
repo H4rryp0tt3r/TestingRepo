@@ -7,5 +7,6 @@ Indians
 Changes made to learn push
 changes made to check conflict
 Git commit from github
-working form terminal
+working form terminalD
 testing from terminal
+testing from github
